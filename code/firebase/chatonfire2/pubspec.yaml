@@ -1,0 +1,30 @@
+name: chatonfire
+description: A chat app that runs on Fire(base).
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core:
+  cloud_firestore:
+  firebase_auth: ^0.6.2
+  cupertino_icons:
+  url_launcher:
+
+dev_dependencies:
+  flutter_launcher_icons:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+flutter_icons:
+  image_path: "icons/launcher_icon.png"
+  android: true
+  ios: true

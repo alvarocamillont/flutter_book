@@ -1,0 +1,18 @@
+<!--
+ ! Excerpted from "Programming Flutter",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material,
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose.
+ ! Visit http://www.pragmaticprogrammer.com/titles/czflutr for more book information.
+-->
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file:///altrofs/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-0.5.0+1" />
+      <root url="file:///altrofs/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.0.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

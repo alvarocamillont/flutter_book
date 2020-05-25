@@ -1,0 +1,16 @@
+name: calculator
+description: A calculator app written with Flutter
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  assets:
+    - icons/

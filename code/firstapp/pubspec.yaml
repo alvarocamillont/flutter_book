@@ -1,0 +1,14 @@
+name: flutter_example_name
+description: Example description of a flutter app that makes
+             great things happen.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

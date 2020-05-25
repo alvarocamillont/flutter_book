@@ -1,0 +1,16 @@
+name: battery_connectivity
+description: An app that displays battery and connectivity status to the user.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  connectivity: ^0.3.1
+  battery: ^0.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
